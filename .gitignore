@@ -1,0 +1,19 @@
+# Archivos generados por Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Entorno virtual de Python (si lo utilizas)
+venv/
+env/
+
+# Archivos de configuración específicos del entorno (por ejemplo, para PyCharm o VS Code)
+.vscode/
+.idea/
+.vs/
+
+# Otros archivos y directorios generados
+*.log
+logs/
+*.swp
+.DS_Store
